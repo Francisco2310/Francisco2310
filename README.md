@@ -10,7 +10,7 @@ Professional **Full-Stack Engineer** with a heavy focus on **Backend Architectur
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | Python (Flask, Django), PostgreSQL, Redis, RabbitMQ |
+| **Backend** | Python (FastAPI, Django), PostgreSQL, Redis, RabbitMQ |
 | **Frontend** | JavaScript (ES6+), TypeScript, Vue.js, Nuxt.js, Tailwind CSS |
 | **DevOps & Infra** | Docker, Nginx, Terraform, CI/CD, Linux Servers |
 | **Data & APIs** | REST, GraphQL, Pandas, NumPy, MongoDB |
